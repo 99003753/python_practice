@@ -45,3 +45,4 @@ chart.x_axis.title = " X_AXIS "
 chart.y_axis.title = " Y_AXIS "
 mastersheet.add_chart(chart, "E2")
 workbook.save("D:\Mini_project\Hospital.xlsx")
+
